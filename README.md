@@ -4,7 +4,7 @@ Crypto-cli
 <p align="center">
 Quickly fetch top 15 cryptocurrencies by market cap right in your terminal.
 <br>
-Works on <b>macOS</b> <b>Linux</b>
+Works on <b>macOS</b> and  <b>Linux</b>
 <img src="images/demo.gif" align="center">
 </p>
 
