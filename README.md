@@ -27,8 +27,8 @@ curl -sS -X GET "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&
 ## Future integrations
 Done?| Name
 :---:| ---
-⬜️| get user input for number of cryptocurrency to be displayed.
-⬜️| make a homebrew package for easy usage.
+✅| Get user input for number of cryptocurrency to be displayed.
+⬜️| Make a homebrew package for easy usage.
 ## Reference
 - [crypto-cli](https://github.com/dillionverma/crypto-cli) created by [@dillionverma](https://github.com/dillionverma/crypto-cli) was frequently used as reference throughout the development of this project.
 ## Special Thanks
