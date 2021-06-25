@@ -46,7 +46,6 @@ To get a specific price, simply use grep.
 Done?| Name
 :---:| ---
 ✅| Get user input for number of cryptocurrency to be displayed.
-⬜️| Make a homebrew package for easy usage.
 ## Reference
 - [crypto-cli](https://github.com/dillionverma/crypto-cli) created by [@dillionverma](https://github.com/dillionverma/crypto-cli) was frequently used as reference throughout the development of this project.
 ## Special Thanks
